@@ -24,5 +24,5 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - ✅️18 | 词义弱化和世界丧失
 
 ### 8.17 - 8.23
-- 求知崩坏
+- ✅️求知崩坏
 - 理性主义与疯狂（纯粹理性批判01）
