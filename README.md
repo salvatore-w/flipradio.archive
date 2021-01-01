@@ -15,6 +15,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - 2 | 如何看待外卖行业和我们的责任？
 - 9 | 互联网在越来越糟吗？怎么办？
 - 18 | 词义弱化和世界丧失
+- 44 | 以“文化”为名我们发明的几个把戏
 
 **翻电 Special**
 
