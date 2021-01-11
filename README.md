@@ -6,7 +6,7 @@
 
 Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si=8vmizJG5TiiyGp777xxftg)
 
-小程序：搜索「翻转电台Flipradio」
+微信小程序：搜索「翻转电台Flipradio」
 
 ## 已完成集数
 
@@ -20,6 +20,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 
 **翻电 Special**
 
+- 996: 不仅是道德问题 VOL.04
 - 动漫真值得捍卫？ VOL.05
 - 我们都烦（怕）优越感 VOL.10
 - 抑郁症：一次负责谨慎而大胆地洞察 VOL.16
