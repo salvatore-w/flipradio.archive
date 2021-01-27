@@ -50,3 +50,4 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - 纯粹理性批判 01：理性主义与疯狂
 - 纯粹理性批判 02：小丑与现代疯狂
 - 纯粹理性批判 03：笛卡尔的怀疑与真理
+- 纯粹理性批判 04：笛卡尔真理世界
