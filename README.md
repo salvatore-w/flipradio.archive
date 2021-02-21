@@ -50,6 +50,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - 纯粹理性批判 03：笛卡尔的怀疑与真理
 - 纯粹理性批判 04：笛卡尔真理世界
 - 纯粹理性批判 05：休谟的印象
+- 纯粹理性批判 06：重回感觉世界
 
 ### Oxford 通识读本线上阅读活动
 
