@@ -35,6 +35,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - 《罗马书》中的伦理学、社会学、政治学 VOL.31
 - 互联网道理争辩的面相学 VOL.37
 - 暴力，语言的暴力，思考的暴力 VOL.40
+- 残忍年代 VOL.56
 
 ### 个人主义与平民社会
 
