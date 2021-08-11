@@ -36,6 +36,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - 互联网道理争辩的面相学 VOL.37
 - 心灵奇旅：虚无主义的美学化 VOL.38
 - 暴力，语言的暴力，思考的暴力 VOL.40
+- 残忍年代 VOL.56
 
 ### 个人主义与平民社会
 
