@@ -13,7 +13,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 
 Patreon：https://www.patreon.com/flipradio
 
-爱发电：https://afadian.net/@flipradio
+爱发电：https://afdian.net/@flipradio
 
 ## 已完成集数
 
