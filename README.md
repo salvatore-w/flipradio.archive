@@ -1,12 +1,19 @@
 # flipradio archive
-【非官方】翻转电台节目的译制文稿整理，作为开源项目的练习，会慢慢补充译制节目，也欢迎大家fork或者pull request一起加入。
+【非官方】翻转电台节目的译制文稿整理，作为开源项目的练习，会慢慢补充译制节目，也欢迎大家 fork 或者 pull request 一起加入。
 
 ## 收听翻转电台
+
 网易云音乐：[点击收听](https://music.163.com/#/djradio?id=349379092)
 
 Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si=8vmizJG5TiiyGp777xxftg)
 
 微信小程序：搜索「翻转电台Flipradio」
+
+## 支持翻转电台
+
+Patreon：https://www.patreon.com/flipradio
+
+爱发电：https://afadian.net/@flipradio
 
 ## 已完成集数
 
@@ -48,6 +55,8 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 
 注：翻电 2.0 文稿内配有对应的节目讲义页数提示。如不需要，请使用正则匹配式 `【讲义..】` 进行删除。
 
+讲义下载地址：flipradio.3adisk.com
+
 #### 第一章
 
 - 纯粹理性批判 01：理性主义与疯狂
@@ -58,12 +67,12 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 - 纯粹理性批判 06：重回感觉世界
 - 纯粹理性批判 07：卢梭的孤独世界
 - 纯粹理性批判 08：不再当个自爱人
-- 纯粹理性批判 09：科学形而上学
+- 纯粹理性批判 09：康德的挽救
 - 纯粹理性批判 10：我们与概念的距离
 
 #### 第四章
 
-- 查拉图斯特拉如是说 08：法国革命的自由与美国革命的自由
+- 尼采 08：法国革命的自由与美国革命的自由
 
 ### Oxford 通识读本线上阅读活动
 
