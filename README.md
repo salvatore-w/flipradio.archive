@@ -57,7 +57,7 @@ Patreon：https://www.patreon.com/flipradio
 
 注：翻电 2.0 文稿内配有对应的节目讲义页数提示。如不需要，请使用正则匹配式 `【讲义..】` 进行删除。
 
-讲义下载地址：[flipradio.3adisk.com](flipradio.3adisk.com)
+讲义下载地址：[www.3adisk.com/?flipradio](http://www.3adisk.com/?flipradio)
 
 #### 第一章
 
