@@ -82,7 +82,7 @@ Patreon：https://www.patreon.com/flipradio
 
 #### 第三章
 
-- 论语 01：历史的识图索骥
+- 孔子 01：历史的识图索骥
 
 #### 第四章
 
