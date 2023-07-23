@@ -91,6 +91,7 @@ Patreon：https://www.patreon.com/flipradio
 #### 第三章
 
 - 孔子 01：历史的识图索骥
+- 孔子 30：中国历史的“董仲舒时刻”
 
 #### 第四章
 
