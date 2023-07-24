@@ -1,6 +1,8 @@
 # flipradio archive
 【非官方】翻转电台节目的译制文稿整理，作为开源项目的练习，会慢慢补充译制节目，也欢迎大家 fork 或者 pull request 一起加入。
 
+提交 Pull Request 前建议参照该说明对格式进行调整：[使用 zhlint 规范格式](https://github.com/salvatore-w/flipradio.archive/wiki/%E4%BD%BF%E7%94%A8-zhlint-%E8%A7%84%E8%8C%83%E6%A0%BC%E5%BC%8F)
+
 ## 收听翻转电台
 
 网易云音乐：[点击收听](https://music.163.com/#/djradio?id=349379092)
