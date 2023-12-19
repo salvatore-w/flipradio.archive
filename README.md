@@ -1,7 +1,10 @@
 # flipradio archive
 【非官方】翻转电台节目的译制文稿整理，作为开源项目的练习，会慢慢补充译制节目，也欢迎大家 fork 或者 pull request 一起加入。
 
-提交 Pull Request 前建议参照该说明对格式进行调整：[使用 zhlint 规范格式](https://github.com/salvatore-w/flipradio.archive/wiki/%E4%BD%BF%E7%94%A8-zhlint-%E8%A7%84%E8%8C%83%E6%A0%BC%E5%BC%8F)
+## 说明
+
+- 提交 Pull Request 前建议参照该说明对格式进行调整：[使用 zhlint 规范格式](https://github.com/salvatore-w/flipradio.archive/wiki/%E4%BD%BF%E7%94%A8-zhlint-%E8%A7%84%E8%8C%83%E6%A0%BC%E5%BC%8F)
+- 为避免重复工作，请先在 [本项目的 Issues 页面](https://github.com/salvatore-w/flipradio.archive/issues) 创建一个新的 Issue，以便其他贡献者进行查阅。
 
 ## 收听翻转电台
 
