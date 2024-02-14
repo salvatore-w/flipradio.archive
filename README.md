@@ -101,6 +101,7 @@ Patreon：https://www.patreon.com/flipradio
 - 心灵奇旅：虚无主义的美学化 VOL.38
 - 暴力，语言的暴力，思考的暴力 VOL.40
 - 残忍年代 VOL.56
+- 如果春节迎来大结局，我们的精神如何安放？feat.雍福会·碎片谈 VOL.109
 
 #### 中史还世
 
