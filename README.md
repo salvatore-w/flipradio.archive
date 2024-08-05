@@ -3,8 +3,9 @@
 
 ## 说明
 
-- 提交 Pull Request 前建议参照该说明对格式进行调整：[使用 zhlint 规范格式](https://github.com/salvatore-w/flipradio.archive/wiki/%E4%BD%BF%E7%94%A8-zhlint-%E8%A7%84%E8%8C%83%E6%A0%BC%E5%BC%8F)
+- 提交 Pull Request 前建议参照该说明对格式进行调整（不强制要求）：[使用 zhlint 规范格式](https://github.com/salvatore-w/flipradio.archive/wiki/%E4%BD%BF%E7%94%A8-zhlint-%E8%A7%84%E8%8C%83%E6%A0%BC%E5%BC%8F)
 - 为避免重复工作，请先在 [本项目的 Issues 页面](https://github.com/salvatore-w/flipradio.archive/issues) 创建一个新的 Issue，以便其他贡献者进行查阅。
+- 部分节目的文字版可能会在这个网站：http://www.weitegensitan.com/ ，请在查阅或贡献前自行查找。
 
 ## 收听翻转电台
 
@@ -12,13 +13,19 @@
 
 Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si=8vmizJG5TiiyGp777xxftg)
 
-微信小程序：搜索「翻转电台Flipradio」
+节目音频文件下载：[listennotes.com](https://lnns.co/VwTjSmZoMKk)
 
 ## 支持翻转电台
 
 Patreon：https://www.patreon.com/flipradio
 
 爱发电：https://afdian.net/@flipradio
+
+## 文件名说明
+
+本项目文件和文件夹命名已经完全重做，Markdown 文件不再含有中文字符，这意味着不可能直接通过节目名称找到对应的文件。请在下面的已完成集数列表中查找节目名称对应集数，或使用类似 [Anytxt](https://anytxt.net/) 的内文搜索软件搜索节目标题对应文件。
+
+建议各位贡献者将本地项目完全删除后重新使用 `git clone`。
 
 ## 已完成集数
 
@@ -59,9 +66,11 @@ Patreon：https://www.patreon.com/flipradio
 - 纯粹理性批判 16：公共信念锤炼问题意识
 - 纯粹理性批判 17：美！再次与自然和谐
 - 纯粹理性批判 18：延续康德克服浪漫
+
 #### 第二章
-- 哲学研究 01：破解语言初级错误 1-14节
-  
+
+- 维特根斯坦 01：破解语言初级误解 01-14 节
+
 #### 第三章
 
 - 孔子 01：历史的识图索骥

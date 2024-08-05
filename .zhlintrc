@@ -1,0 +1,9 @@
+{
+    "preset": "default",
+    "rules": {
+      "unifiedPunctuation": "traditional",
+      "spaceOutsideHalfQuote": false,
+      "halfWidthPunctuation": "（）",
+      "skipZhUnits": " "
+    }
+}
