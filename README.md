@@ -19,7 +19,7 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 
 Patreon：https://www.patreon.com/flipradio
 
-爱发电：https://afdian.net/@flipradio
+爱发电：https://afdian.com/a/flipradio
 
 ## 文件名说明
 
@@ -86,6 +86,7 @@ Patreon：https://www.patreon.com/flipradio
 - 尼采 20：俾斯麦：一个全新物种
 - 尼采 27：首先是一位19世纪哲学家
 - 尼采 28：讨厌尼采，但对他的哲学感兴趣
+- 尼采 29：作为整体风格的文化
 
 ### 翻电问答
 
