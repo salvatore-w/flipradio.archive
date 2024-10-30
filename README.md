@@ -123,6 +123,7 @@ Patreon：https://www.patreon.com/flipradio
 - 残忍年代 VOL.56
 - 如果春节迎来大结局，我们的精神如何安放？feat.雍福会·碎片谈 VOL.109
 - 梳理关于DEI的11个最基础视角，每月一期DEI节目，在这个人云亦云的重灾区 VOL.142
+- DEI是马尔库赛主导的激进主义运动？| 月更DEI节目 VOL.143
 
 #### 中史还世
 
