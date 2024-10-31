@@ -4,7 +4,13 @@
 ## 说明
 
 - 提交 Pull Request 前建议参照该说明对格式进行调整（不强制要求）：[使用 zhlint 规范格式](https://github.com/salvatore-w/flipradio.archive/wiki/%E4%BD%BF%E7%94%A8-zhlint-%E8%A7%84%E8%8C%83%E6%A0%BC%E5%BC%8F)
+
 - 为避免重复工作，请先在 [本项目的 Issues 页面](https://github.com/salvatore-w/flipradio.archive/issues) 创建一个新的 Issue，以便其他贡献者进行查阅。
+
+- 部分文稿如 翻电 2.0 内配有对应的节目讲义页数提示。如不需要，请使用正则匹配式 `【讲义..】` 进行删除。
+
+- 部分文稿如 FF30 内配有播客简介中主播划分的时间节点提示。如不需要，请使用正则匹配式 `【时点......】` 进行删除。
+
 - 部分节目的文字版可能会在这个网站：http://www.weitegensitan.com/ ，请在查阅或贡献前自行查找。
 
 ## 收听翻转电台
@@ -41,8 +47,6 @@ Patreon：https://www.patreon.com/flipradio
 - 28 解蔽平庸这种性情
 
 ### 翻电 2.0
-
-注：翻电 2.0 文稿内配有对应的节目讲义页数提示。如不需要，请使用正则匹配式 `【讲义..】` 进行删除。
 
 讲义下载地址：[www.3adisk.com/?flipradio](http://www.3adisk.com/?flipradio)
 
@@ -128,3 +132,7 @@ Patreon：https://www.patreon.com/flipradio
 #### 中史还世
 
 - 翻电2.0Special 无意义的伟大：亚历山大的征服 中史还世•战国篇
+
+### FF30
+
+- FF30 | 09 戈达尔 重回电影大年，不如先与戈达尔探究“何谓电影”
