@@ -21,6 +21,8 @@ Spotify：[点击收听](https://open.spotify.com/show/6O2YwvuGpP2y17SpC8MM5s?si
 
 节目音频文件下载：[listennotes.com](https://lnns.co/VwTjSmZoMKk)
 
+墙内部分集数无法收听，部分集数有和谐内容。listennotes下载的音频文件是墙内版。
+
 ## 支持翻转电台
 
 Patreon：https://www.patreon.com/flipradio
