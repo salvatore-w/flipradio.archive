@@ -41,6 +41,7 @@ Patreon：https://www.patreon.com/flipradio
 
 #### 牛津通识读本线上阅读活动
 
+- 现代性与后现代性（上）
 - 求知崩坏
 
 #### 个人主义与平民社会
